@@ -1,13 +1,14 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
+
 import './App.css'
+import Form from './assets/Form'
 
 function App() {
   
   return (
     <>
-      <h1> Registration Form </h1>
+      <h1 className='bg-pink-200'> Movie Madness: Your Favorite Flicks Fiesta</h1>
+
+      <Form />
 
       
     </>
