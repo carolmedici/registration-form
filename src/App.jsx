@@ -6,7 +6,7 @@ function App() {
   
   return (
     <>
-      <h1 className='bg-pink-200'> Movie Madness: Your Favorite Flicks Fiesta</h1>
+      <h1 className='text-4xl text-center mt-8'> Movie Madness: Your Favorite Flicks Fiesta</h1>
 
       <Form />
 
